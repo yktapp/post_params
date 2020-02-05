@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631e59e5-387b-44cf-8e24-0e49149ddee8" name="Default Changelist" comment="" />
+    <list default="true" id="631e59e5-387b-44cf-8e24-0e49149ddee8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
     </execution>
   </component>
   <component name="GOROOT" path="$USER_HOME$/sdk/go1.12.7" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -20,6 +25,7 @@
     <option name="directoryName" value="rQGhvQKx" />
   </component>
   <component name="ProjectId" id="1XNTssq4WtyZ4eoY6CqRqhdqMCK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580885761619</updated>
-      <workItem from="1580885762877" duration="19000" />
+      <workItem from="1580885762877" duration="192000" />
     </task>
     <servers />
   </component>
