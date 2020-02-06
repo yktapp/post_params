@@ -108,3 +108,10 @@ func GetArrayFloat64(r *http.Request, key string) (values []float64) {
 	}
 	return values
 }
+
+func GetArrayString(r *http.Request, key string) []string {
+	if err := r.ParseForm(); err != nil{
+		return nil
+	}
+	return r.Form[key]
+}
